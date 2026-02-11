@@ -1,3 +1,5 @@
+#Day 1 python basics
+
 name = input("Enter Name: ")
 birthyear = int(input("Enter your birth year: "))
 
@@ -14,4 +16,3 @@ if age<18:
     print("Minor")
 else:
     print("Adult")
-    
